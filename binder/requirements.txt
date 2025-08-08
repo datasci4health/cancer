@@ -7,3 +7,11 @@ numpy
 gseapy
 scikit-learn
 seaborn
+
+# PlantUML dependencies
+iplantuml
+
+# Orange 3 and dependencies
+PyQt5
+PyQtWebEngine
+orange3
