@@ -5,3 +5,5 @@ statsmodels
 networkx
 numpy
 gseapy
+sklearn
+seaborn
